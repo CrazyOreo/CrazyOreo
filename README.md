@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Uso diversas ferramentas para o desenvolvimento, incluindo <strong>Codeblocks, Visual Studio, TOTVS</strong> e outras necessárias para um bom desenvolvimento.
+  💼 Ferramentas: Uso diversas ferramentas para o desenvolvimento, incluindo <strong>Codeblocks, Visual Studio, TOTVS(Protheus)</strong> e outras necessárias para um bom desenvolvimento.
 </p>
 
 <p align="left">
