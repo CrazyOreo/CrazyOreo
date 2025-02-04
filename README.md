@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Atualmente (17/06/2024), tenho conhecimento em <strong>Python, C e React</strong>.
+  🦄 Linguagens: Atualmente (17/06/2024), tenho conhecimento em <strong>Python & C</strong>.
 </p>
 
 <p align="left">
